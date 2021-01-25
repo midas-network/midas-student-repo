@@ -16,5 +16,8 @@
 * [pomp](http://kingaa.github.io/pomp/)
 * [epiR](https://cran.r-project.org/web/packages/epiR/index.html)
 
-## Machine Learning in R:
+## Machine Learning:
 * [Hands-on Machine Learning](https://bradleyboehmke.github.io/HOML/ "Hands-on Machine Learning")
+
+## Predictive Modelling:
+* [Caret Package](http://topepo.github.io/caret/index.html "Caret Package")
