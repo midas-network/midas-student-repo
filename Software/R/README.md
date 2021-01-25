@@ -21,3 +21,6 @@
 
 ## Predictive Modelling:
 * [Caret Package](http://topepo.github.io/caret/index.html "Caret Package")
+
+## Bayesian Methods:
+* [Rethinking Package](http://xcelab.net/rm/software/ "Rethinking Package")
