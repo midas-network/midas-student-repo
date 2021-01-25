@@ -20,7 +20,7 @@
 * [Hands-on Machine Learning](https://bradleyboehmke.github.io/HOML/ "Hands-on Machine Learning")
 
 ## Predictive Modeling:
-* [Caret Package](http://topepo.github.io/caret/index.html "Caret Package")
+* [Caret package](http://topepo.github.io/caret/index.html "Caret Package")
 
 ## Bayesian Methods:
-* [Rethinking Package](http://xcelab.net/rm/software/ "Rethinking Package")
+* [Rethinking package](http://xcelab.net/rm/software/ "Rethinking Package")
