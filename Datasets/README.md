@@ -2,7 +2,7 @@
 
 ## State Health Data
 ### New York
-* [New York City](https://data.cityofnewyork.us/browse?category=Health "NYC Open Data")
+* [NYC Open Data](https://data.cityofnewyork.us/browse?category=Health "NYC Open Data")
 ### California
 * [California Health & Human Services Agency](https://data.chhs.ca.gov/dataset "California Health & Human Services Agency")
 
