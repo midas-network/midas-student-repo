@@ -24,3 +24,7 @@
 
 ## Bayesian Methods:
 * [Rethinking package](http://xcelab.net/rm/software/ "Rethinking Package")
+
+## Survival Analysis:
+* [Cox Proportional Hazards: survminer package](http://www.sthda.com/english/wiki/cox-proportional-hazards-model "Cox Proportional Hazards")
+* [Cox Proportional Hazards: survival package](https://rviews.rstudio.com/2017/09/25/survival-analysis-with-r/ "Cox Proportional Hazards")
